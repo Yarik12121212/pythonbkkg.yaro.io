@@ -1,0 +1,17 @@
+h4 {
+	background: #FFEFD5;
+	margin-left: 100px;
+	margin-right: 80px;
+	font-size: 35px;
+}
+
+img {
+	margin-top: 18px;
+	margin-left: 5px;
+	margin-right: 10px;
+}
+
+* {
+	background: #FFEFD5;
+	margin: 0;
+}
